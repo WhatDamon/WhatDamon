@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhatDamon
 - 🌱 I’m currently learning C++
-- 📫 How to reach me ???(No way, only my email: whatdamon233@qq.com
+- 📫 How to reach me ???(No way, only my email: whatdamon@qq.com
 - ⚙️ Remember I am Chinese, so I am not good at English!
 - 🎬 And my Bilibili [Here](https://space.bilibili.com/351191993)
 
