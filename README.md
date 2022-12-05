@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @WhatDamon
-- 🌱 I’m currently learning C++
-- 📫 How to reach me ???(No way, only my email: whatdamon@qq.com
-- ⚙️ Remember I am Chinese, so I am not good at English!
+## Hello, friends~
+- 👋 I’m **@WhatDamon**
+- 🌱 I’m currently learning WinUI3 _(and I made a really stange programe)_
+- 📫 How to reach me ???(No way, only my email: whatdamon@qq.com and whatdamon233@gmail.com
+- ⚙️ Remember I am Chinese, so actually I am not good at English!
 - 🎬 And my Bilibili [Here](https://space.bilibili.com/351191993)
-- 🔧 I'm developing Useless Toolsbox(CHINESE)
+- 🔧 I'm developing {NUL}
+- 🌐 And my website: https://damon233.js.org/ <font color="red">(zh-CN)
+
+
 
 <!---
 WhatDamon/WhatDamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
