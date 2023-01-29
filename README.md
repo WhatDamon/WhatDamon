@@ -6,6 +6,18 @@
 - 🎬 And my Bilibili [Here](https://space.bilibili.com/351191993)
 - 🔧 I'm developing N/A
 - 🌐 And my website: https://damon233.js.org/ <font color="red">(zh-CN)
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true&locale=cn&theme=merko">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true&locale=cn">
+  <img alt="状态" src="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true&locale=cn">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatDamon&locale=cn&theme=merko">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatDamon&locale=cn">
+  <img alt="主要语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatDamon&locale=cn">
+</picture>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/WhatDamon/WhatDamon/assets/github-contribution-grid-snake.svg" /></div>
   
