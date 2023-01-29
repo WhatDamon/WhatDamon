@@ -7,11 +7,7 @@
 - 🔧 I'm developing N/A
 - 🌐 And my website: https://damon233.js.org/ <font color="red">(zh-CN)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://damon233.js.org/WhatDamon/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://damon233.js.org/WhatDamon/github-snake.svg">
-  <img alt="¿" src="https://damon233.js.org/WhatDamon/github-snake.svg">
-</picture>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/WhatDamon/WhatDamon/assets/github-contribution-grid-snake.svg" /></div>
   
 <!---
 WhatDamon/WhatDamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
