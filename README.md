@@ -6,7 +6,12 @@
 - 🎬 And my Bilibili [Here](https://space.bilibili.com/351191993)
 - 🔧 I'm developing _N/A_
 - 🌐 And my website: https://damon233.js.org/ <font color="red">(zh-CN)
+- 📐 Honestly, I am not good at developing. Only design and operation and maintenance are good at it(?)
+
+## Using Devices
+- 💻**Laptop**: Lenovo Legion Y9000P 2022 (Maybe the Chinese edition of Legion 7i Gen 7)
  
+## Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true">
