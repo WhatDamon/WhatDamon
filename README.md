@@ -33,7 +33,7 @@
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/WhatDamon/WhatDamon/assets/github-contribution-grid-snake.svg" /></div>
 
-You are my **![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)th** visitors!
+You are my **![Visitor Count](https://profile-counter.glitch.me/WhatDamon/count.svg)th** visitors!
   
 <!---
 WhatDamon/WhatDamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
