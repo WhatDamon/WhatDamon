@@ -12,7 +12,6 @@
 - 💻**Laptop**: Lenovo Legion Y9000P 2022 (Maybe the Chinese edition of Legion 7i Gen 7)
  
 ## Stats
-![Metrics](https://metrics.lecoq.io/WhatDamon?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true&theme=dark">
@@ -25,11 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatDamon">
 </picture>
 <br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/bilibili/?id=351191993&theme=dark2">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/bilibili/?id=351191993">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhatDamon&show_icons=true">
-</picture>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/WhatDamon/WhatDamon/assets/github-contribution-grid-snake.svg" /></div>
 
