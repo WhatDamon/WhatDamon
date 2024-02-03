@@ -4,9 +4,9 @@
 - 📫 How to reach me ??? (No way, only my email: whatdamon@qq.com or whatdamon233@gmail.com)
 - 🌏 Actually I am not good at English! I'm Chinese.
 - 🎬 And my Bilibili [Here](https://space.bilibili.com/351191993)
-- 🔧 I'm developing [![suntrise/Pseudo-localization-Demo](https://img.shields.io/badge/suntrise-Pseudo--localization--Demo-blue?style=flat-square)](htttps://github.com/suntrise/Pseudo-localization-Demo)
-- 🌐 And my website: https://damon233.js.org/ <font color="red">(zh-CN)
-- 📐 Honestly, I am not good at developing. Only design and maintenance are good at it(?) DAYDREAM!!!!
+- 🔧 I'm developing __something full of bugs__
+- 🌐 And my website: https://damon233.js.org/ <font color="red">(zh-CN)</font>
+- 📐 Honestly, I am not good at developing. Only design and maintenance are good at it(?)
 
 ## Using Devices
 - 💻**Laptop**: Lenovo Legion Y9000P 2022 (Maybe the Chinese edition of Legion 7i Gen 7)
