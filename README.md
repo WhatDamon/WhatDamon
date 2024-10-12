@@ -27,8 +27,6 @@
 
 ![WhatDamon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhatDamon&theme=github-compact)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/WhatDamon/WhatDamon/assets/github-contribution-grid-snake.svg" /></div>
-
 You are my **![Visitor Count](https://profile-counter.glitch.me/WhatDamon/count.svg)th** visitors!
   
 <!---
