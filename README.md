@@ -1,6 +1,6 @@
 ## Hello, friends~
 - 👋 I’m **@WhatDamon**, aka **Damon Lu**
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-placeholder?style=flat-square&logo=python&logoColor=white&labelColor=yellow&color=blue) & ![Golang](https://img.shields.io/badge/Golang-placeholder?style=flat-square&logo=go&logoColor=white&labelColor=38acd7&color=38acd7) & ![C#](https://img.shields.io/badge/C%23-placeholder?style=flat-square&logo=.net&logoColor=white&labelColor=5b20d3&color=5b20d3) (The essence of programming is copy and paste!)
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-placeholder?style=flat-square&logo=python&logoColor=white&labelColor=yellow&color=blue) & ![Golang](https://img.shields.io/badge/Golang-placeholder?style=flat-square&logo=go&logoColor=white&labelColor=38acd7&color=38acd7) & ![C#](https://img.shields.io/badge/C%23-placeholder?style=flat-square&logo=.net&logoColor=white&labelColor=5b20d3&color=5b20d3) ~~(The essence of programming is copy and paste!)~~
 - 📫 How to reach me ??? (Well, my email: whatdamon@damon233.top or whatdamon233@gmail.com)
 - 🌏 Actually I am not good at English! I'm Chinese.
 - 🎬 And my Bilibili [Here](https://space.bilibili.com/351191993)
@@ -10,6 +10,10 @@
 
 ## Using Devices
 - 💻**Laptop**: Lenovo Legion Y9000P 2022 (Maybe the Chinese edition of Legion 7i Gen 7)
+
+### Something others...
+- 💡Raspberry Pi 4B
+- 💡Lots of ESP microcontrollers (including ESP-WROOM-32, ESP32-WROOM-C6, ESP32S3, ESP32C3 and ESP8266)
  
 ## Stats
 
@@ -26,6 +30,14 @@
 <br />
 
 ![WhatDamon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhatDamon&theme=github-compact)
+
+## Donate
+
+...to power me up!
+
+- 🦈 Afdian: https://ifdian.net/a/Damon233 _(Do not consider using Paypal to support me)_ 🤦
+
+-----
 
 You are my **![Visitor Count](https://profile-counter.glitch.me/WhatDamon/count.svg)th** visitors!
   
