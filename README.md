@@ -2,16 +2,8 @@
     <tbody>
         <tr>
             <td colspan="6">
-                <p></p>
-                <div align="center">
-                    <picture>
-                        <source media="(prefers-color-scheme: dark)"
-                            srcset="https://avatars.githubusercontent.com/u/59256766">
-                        <img width="128" src="https://avatars.githubusercontent.com/u/59256766" />
-                    </picture>
-                </div>
                 <h2>
-                    <p align="center">Hi! I'm <code>WhatDamon</code></p>
+                    <p align="center">Hi! I'm <code>@WhatDamon</code></p>
                 </h2>
                 <h5>
                     <p align="center"><i>aka Damon Lu</i></p>
