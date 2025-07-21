@@ -42,42 +42,36 @@
                 <h3>
                     <p align="center">Devices</p>
                     </h4>
-                    <table align="center">
-                        <tr>
-                            <td>💻Laptop</td>
-                            <td>Lenovo Legion Y9000P 2022<br />(Maybe the Chinese edition of Legion 7i Gen 7)</td>
-                        </tr>
-                        <tr>
-                            <td>📱Phone</td>
-                            <td>OnePlus 13</td>
-                        </tr>
-                        <tr>
-                            <td rowspan="3">💡Raspberry Pi</td>
-                            <td>Raspberry Pi 4B</td>
-                        </tr>
-                        <tr>
-                            <td>Raspberry Pi PICO 1</td>
-                        </tr>
-                        <tr>
-                            <td>Raspberry Pi PICO 2</td>
-                        </tr>
-                        <tr>
-                            <td rowspan="5">💡ESP microcontrollers</td>
-                            <td>ESP-WROOM-32</td>
-                        </tr>
-                        <tr>
-                            <td>ESP32-WROOM-C6</td>
-                        </tr>
-                        <tr>
-                            <td>ESP32S3</td>
-                        </tr>
-                        <tr>
-                            <td>ESP32C3</td>
-                        </tr>
-                        <tr>
-                            <td>ESP8266</td>
-                        </tr>
-                    </table>
+                        <table align="center">
+                            <tr>
+                                <td rowspan="2">💻 Laptop</td>
+                                <td>Lenovo Legion Y9000P 2022</td>
+                                <td>📱 Phone</td>
+                                <td>OnePlus 13</td>
+                            </tr>
+                            <tr>
+                                <td>MacBook Pro 2024 Nov M4 (Mac16,1)</td>
+                                <td rowspan="5">💡 ESP microcontrollers</td>
+                                <td>ESP-WROOM-32</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4">💡 Raspberry Pi</td>
+                                <td>Raspberry Pi 4B</td>
+                                <td>ESP32-WROOM-C6</td>
+                            </tr>
+                            <tr>
+                                <td>Raspberry Pi Zero 2w</td>
+                                <td>ESP32S3</td>
+                            </tr>
+                            <tr>
+                                <td>Raspberry Pi PICO 1</td>
+                                <td>ESP32C3</td>
+                            </tr>
+                            <tr>
+                                <td>Raspberry Pi PICO 2</td>
+                                <td>ESP8266</td>
+                            </tr>
+                        </table>
                     <p></p>
             </td>
         </tr>
@@ -151,14 +145,6 @@
                     <img width="100%"
                         src="https://github-readme-activity-graph.vercel.app/graph?username=WhatDamon&theme=github-compact&hide_border=true" />
                 </picture>
-            </td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr>
-            <td colspan="6">
-                <p align="center">You are my <img src="https://profile-counter.glitch.me/WhatDamon/count.svg"><b>th</b>
-                    visitors!</p>
             </td>
         </tr>
     </tbody>
