@@ -9,10 +9,6 @@
                     <p align="center"><i>aka Damon Lu</i></p>
                     </h2>
                     <p align="center">🪲
-                        <a href="https://python.org"><img
-                                src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white&color=3572A5" /></a>
-                        <a href="https://dot.net"><img
-                                src="https://img.shields.io/badge/C%23-placeholder?style=for-the-badge&logo=.net&logoColor=white&labelColor=5b20d3&color=5b20d3" /></a>
                         <a href="https://deepl.com/"><img
                                 src="https://img.shields.io/badge/l10n-x?style=for-the-badge&logo=googletranslate&logoColor=white&color=7159C1" /></a>
                         <a href="https://github.com"><img
@@ -42,36 +38,36 @@
                 <h3>
                     <p align="center">Devices</p>
                     </h4>
-                        <table align="center">
-                            <tr>
-                                <td rowspan="2">💻 Laptop</td>
-                                <td>Lenovo Legion Y9000P 2022</td>
-                                <td>📱 Phone</td>
-                                <td>OnePlus 13</td>
-                            </tr>
-                            <tr>
-                                <td>MacBook Pro 2024 Nov M4 (Mac16,1)</td>
-                                <td rowspan="5">💡 ESP microcontrollers</td>
-                                <td>ESP-WROOM-32</td>
-                            </tr>
-                            <tr>
-                                <td rowspan="4">💡 Raspberry Pi</td>
-                                <td>Raspberry Pi 4B</td>
-                                <td>ESP32-WROOM-C6</td>
-                            </tr>
-                            <tr>
-                                <td>Raspberry Pi Zero 2w</td>
-                                <td>ESP32S3</td>
-                            </tr>
-                            <tr>
-                                <td>Raspberry Pi PICO 1</td>
-                                <td>ESP32C3</td>
-                            </tr>
-                            <tr>
-                                <td>Raspberry Pi PICO 2</td>
-                                <td>ESP8266</td>
-                            </tr>
-                        </table>
+                    <table align="center">
+                        <tr>
+                            <td rowspan="2">💻 Laptop</td>
+                            <td>Lenovo Legion Y9000P 2022</td>
+                            <td>📱 Phone</td>
+                            <td>OnePlus 13</td>
+                        </tr>
+                        <tr>
+                            <td>MacBook Pro 2024 Nov M4 (Mac16,1)</td>
+                            <td rowspan="5">💡 ESP microcontrollers</td>
+                            <td>ESP-WROOM-32</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="4">💡 Raspberry Pi</td>
+                            <td>Raspberry Pi 4B</td>
+                            <td>ESP32-WROOM-C6</td>
+                        </tr>
+                        <tr>
+                            <td>Raspberry Pi Zero 2w</td>
+                            <td>ESP32S3</td>
+                        </tr>
+                        <tr>
+                            <td>Raspberry Pi PICO 1</td>
+                            <td>ESP32C3</td>
+                        </tr>
+                        <tr>
+                            <td>Raspberry Pi PICO 2</td>
+                            <td>ESP8266</td>
+                        </tr>
+                    </table>
                     <p></p>
             </td>
         </tr>
@@ -120,18 +116,6 @@
                         srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=WhatDamon&utcOffset=8&theme=nord_dark&border_color=0000&bg_color=0000">
                     <img height="100%"
                         src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=WhatDamon&utcOffset=8&theme=nord_bright&border_color=0000&bg_color=0000" />
-                </picture>
-            </td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr>
-            <td colspan="6">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github-profile-trophy.vercel.app/?username=WhatDamon&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=15">
-                    <img width="100%"
-                        src="https://github-profile-trophy.vercel.app/?username=WhatDamon&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" />
                 </picture>
             </td>
         </tr>
