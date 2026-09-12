@@ -7,6 +7,7 @@
                 </h2>
                 <h5>
                     <p align="center"><i>aka Damon Lu</i></p>
+                    <p align="center">A Simple College Student</p>
                     </h2>
                     <p align="center">🪲
                         <a href="https://deepl.com/"><img
@@ -38,15 +39,21 @@
                 <h3>
                     <p align="center">Devices</p>
                     </h4>
-                    <table align="center">
+                    <table  align="center">
                         <tr>
                             <td rowspan="2">💻 Laptop</td>
-                            <td>Lenovo Legion Y9000P 2022</td>
-                            <td>📱 Phone</td>
-                            <td>OnePlus 13</td>
+                            <td>MacBook Pro M4 (Mac16,1)</td>
+                            <td>📱 Tablet</td>
+                            <td>iPad Pro M5 (iPad17,2)</td>
                         </tr>
                         <tr>
-                            <td>MacBook Pro 2024 Nov M4 (Mac16,1)</td>
+                            <td>Lenovo Legion Y9000P 2022</td>
+                            <td>🎧 Earphone</td>
+                            <td>AirPods 4 ANC</td>
+                        </tr>
+                        <tr>
+                            <td>📱 Phone</td>
+                            <td>OnePlus 13</td>
                             <td rowspan="5">💡 ESP microcontrollers</td>
                             <td>ESP-WROOM-32</td>
                         </tr>
