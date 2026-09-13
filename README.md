@@ -48,8 +48,8 @@
                         </tr>
                         <tr>
                             <td>Lenovo Legion Y9000P 2022</td>
-                            <td>🎧 Earphone</td>
-                            <td>AirPods 4 ANC</td>
+                            <td>⌚ Watch</td>
+                            <td>Xiaomi SmartBand 10 NFC</td>
                         </tr>
                         <tr>
                             <td>📱 Phone</td>
