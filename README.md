@@ -48,7 +48,7 @@
                         </tr>
                         <tr>
                             <td>Lenovo Legion Y9000P 2022</td>
-                            <td>⌚ Watch</td>
+                            <td>⌚ Wearable</td>
                             <td>Xiaomi SmartBand 10 NFC</td>
                         </tr>
                         <tr>
