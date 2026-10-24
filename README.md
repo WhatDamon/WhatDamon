@@ -127,18 +127,6 @@
             </td>
         </tr>
     </tbody>
-    <tbody>
-        <tr>
-            <td colspan="6">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github-readme-activity-graph.vercel.app/graph?username=WhatDamon&theme=github-compact&hide_border=true">
-                    <img width="100%"
-                        src="https://github-readme-activity-graph.vercel.app/graph?username=WhatDamon&theme=github-compact&hide_border=true" />
-                </picture>
-            </td>
-        </tr>
-    </tbody>
 </table>
 
 <!---
